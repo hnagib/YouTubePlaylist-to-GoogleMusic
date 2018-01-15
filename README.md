@@ -1,5 +1,5 @@
 # Youtube-Downloader
-Script for saving youtube playlists audio offline.
+Script for saving youtube playlist audio offline.
 Modified from: https://github.com/robgibbons/youParse/blob/master/youParse.py
 
 ### Requirements
