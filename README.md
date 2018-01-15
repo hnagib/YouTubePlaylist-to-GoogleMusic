@@ -2,7 +2,7 @@
 Script for saving youtube playlist audio offline.
 Modified from: https://github.com/robgibbons/youParse/blob/master/youParse.py
 
-### Requirements
+## Requirements
 Install youtube_dl package:
 ```
 $pip install youtube_dl
@@ -16,5 +16,7 @@ Install ffmpeg:
 $brew install ffmpeg
 ```
 
-### Usage
+## Usage
+```
 $python youScraper.py https://www.youtube.com/playlist?list=PLC-5C1DmrxMC5auE75mrhjoYbgGERXahO
+```
