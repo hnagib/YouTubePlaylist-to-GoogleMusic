@@ -2,15 +2,15 @@ Script for downloading youtube playlist audio.
 Modified from: https://github.com/robgibbons/youParse/blob/master/youParse.py
 
 ## Requirements
-Install youtube_dl package:
+Install youtube_dl python package
 ```
 $pip install youtube_dl
 ```
-Install homebrew:
+Install homebrew
 ```
 $/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
 ```
-Install ffmpeg:
+Install ffmpeg using homebrew
 ```
 $brew install ffmpeg
 ```
