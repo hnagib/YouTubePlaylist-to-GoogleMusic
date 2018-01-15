@@ -3,13 +3,13 @@ Script for saving youtube playlists audio offline.
 Modified from: https://github.com/robgibbons/youParse/blob/master/youParse.py
 
 ### Requirements
-- Install youtube_dl package:
+- Install youtube_dl package:\n
 $pip install youtube_dl
 
-- Install homebrew:
+- Install homebrew:\n
 $/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
 
-- Install ffmpeg:
+- Install ffmpeg:\n
 $brew install ffmpeg
 
 ### Usage
